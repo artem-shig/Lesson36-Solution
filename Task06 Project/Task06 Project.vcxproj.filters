@@ -21,9 +21,15 @@
     <ClCompile Include="util.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
+    <ClCompile Include="check_array_mirror.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="util.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="check_array_mirror.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
